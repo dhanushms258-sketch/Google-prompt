@@ -1,0 +1,11 @@
+{
+  "name": "aarogya-nova-backend",
+  "version": "1.0.0",
+  "description": "Aarogya Nova Healthcare Accessibility Platform Backend",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  }
+}
